@@ -9,9 +9,11 @@ Recovering hidden electronic screen content from wall-mediated diffuse reflectio
 | Component                        | Status         |
 |----------------------------------|----------------|
 | 🧠 Model Definition              | ✅ Available   |
-| 🏋️‍♀️ Training Code                 | ✅ Available |
+| 🏋️‍♀️ Training Code                 | ✅ Available  |
 | 🧪 Inference Code                | ✅ Available   |
-| 📊 Dataset                       |  Coming Soon  |
+| 🎯 Model Weights                 | ⏳ Coming Soon  |
+| 📊 Dataset                       | ⏳ Coming Soon  |
+---
 
 ## Overview of the method
 ![Overview](NLOS_v2.png)
