@@ -1,4 +1,4 @@
-<img width="48" height="48" alt="0152A3A6" src="https://github.com/user-attachments/assets/b95d2eda-8b65-4abc-9a27-c2fe073146ef" /># D2L: Diffuse-to-Latent Distillation for NLOS Wall-Reflected Reconstruction
+# D2L: Diffuse-to-Latent Distillation for NLOS Wall-Reflected Reconstruction
 
 ## Abstract
 
